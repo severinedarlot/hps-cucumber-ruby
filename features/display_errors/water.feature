@@ -3,6 +3,24 @@ Feature: Water
     I have to handle the water tank
     So I can have coffee when I need it
 
+#                 _            _.,----,
+#  __  _.-._ / '-.        -  ,._  \) 
+# |  `-)_   '-.   \       / < _ )/" }
+# /__    '-.   \   '-, ___(c-(6)=(6)
+#  , `'.    `._ '.  _,'   >\    "  )
+#  :;;,,'-._   '---' (  ( "/`. -='/
+# ;:;;:;;,  '..__    ,`-.`)'- '--'
+# ;';:;;;;;'-._ /'._|   Y/   _/' \
+#       '''"._ F    |  _/ _.'._   `\
+#              L    \   \/     '._  \
+#       .-,-,_ |     `.  `'---,  \_ _|
+#       //    'L    /  \,   ("--',=`)7
+#      | `._       : _,  \  /'`-._L,_'-._
+#      '--' '-.\__/ _L   .`'         './/
+#                  [ (  /
+#                   ) `{
+#        snd        \__)
+
   Background:
     Given the coffee machine is started
     And I handle everything except the water tank
