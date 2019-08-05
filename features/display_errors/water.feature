@@ -2,7 +2,6 @@ Feature: Water
     As a coffee lover
     I have to handle the water tank
     So I can have coffee when I need it
-    Harry Potter on a broom
 
                     _            _.,----,
      __  _.-._ / '-.        -  ,._  \) 
